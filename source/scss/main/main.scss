@@ -1,0 +1,35 @@
+.main__about-us {
+  margin-bottom: 200px;
+
+  @media (max-width: $tablet-width) {
+    margin-bottom: 80px;
+  }
+
+  @media (max-width: $mobile-width) {
+    margin-bottom: 109px;
+  }
+}
+
+.main__places {
+  margin-bottom: 240px;
+
+  @media (max-width: $tablet-width) {
+    margin-bottom: 80px;
+  }
+
+  @media (max-width: $mobile-width) {
+    margin-bottom: 50px;
+  }
+}
+
+.main__price {
+  margin-bottom: 137px;
+
+  @media (max-width: $tablet-width) {
+    margin-bottom: 125px;
+  }
+
+  @media (max-width: $mobile-width) {
+    margin-bottom: 50px;
+  }
+}
